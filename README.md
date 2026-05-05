@@ -22,6 +22,6 @@ sudo crontab -e
 
 # Turn off the firewall
 
-Simply run off-firewall.sh
+Simply run `off-firewall.sh`.
 
 
